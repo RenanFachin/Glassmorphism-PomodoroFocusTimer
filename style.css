@@ -168,7 +168,9 @@ main .container{
 }
 
 button{
-    background-color: transparent;
+    background-color: var(--bg-primary-light);
+    border-radius: 2rem;
+    padding: 4px;
     border: none;
     cursor: pointer;
 }
